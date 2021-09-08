@@ -1,0 +1,82 @@
+
+html{
+
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    line-height: 1.5;
+    background-size: 25%;
+     color: #333;
+     font-display: verdana, Arial, Helvetica;
+      background-color: rgba(255,255,255,0.6)
+  }
+ /* Profile
+------------------------------------*/
+header{
+    display: block;
+     text-align: center;          
+     background-color: rgb(190, 223, 205); 
+color: rgb(85, 67, 18);
+    }
+    img {
+        float: left;
+        margin: 0px 0 0 20px;
+    }
+ .about{
+     font-size: 12px;
+     margin: 20px 30px 30px 100px;
+     margin-bottom: 1em;
+     text-align: justify;
+ }
+ 
+h1,h2,h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+    font-size: 19px;
+    padding-left: 20px;
+    color: rgb(35, 88, 71);
+    background-color: burlywood;
+}
+h4{
+    color: rgb(185, 106, 32);
+}
+
+.features {
+    background-color: rgb(243, 239, 229);
+    margin: 0 30px 30px 20px;
+    text-align: justify;
+}
+.div1 {
+    float: left; 
+    
+  }
+  
+  .div2{
+    clear: left;
+    padding-top: 2px;
+}
+.stem {
+    margin: 0 30px 30px 20px;
+    text-align: justify;
+
+}
+.project{
+    background-color: cadetblue;
+}
+
+  
+  footer{
+      background-color: darkcyan;
+  }
+
+  footer ul{
+      color: white;
+  }
+  li a {
+      color: white;
+    text-decoration: none;
+  }
