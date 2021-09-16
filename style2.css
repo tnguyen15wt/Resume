@@ -1,0 +1,171 @@
+
+html{
+
+}
+body {
+   /* margin: 0;
+    padding: 0;*/
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    background-size: 25%;
+     color: #333;
+     font-display: verdana, Arial, Helvetica;
+    background-color: white;
+  }
+
+
+  h1 {
+      font-size: 100px;
+      text-shadow: 4px 2px 1px rgb(206, 170, 71), 4px -2px 5px rgb(180, 187, 76);
+      line-height: 1;
+  }
+  h2 {
+   font-size: 45px;
+  }
+
+  h3{
+    color: rgb(35, 88, 71);
+      font-size: 23px;
+      margin: 0;
+      
+  }
+  h4{
+    color: rgb(185, 106, 32);
+    font-size: 18px;
+}
+  h1, h2 {
+    color:white;
+      font-family: 'Caveat', cursive;
+      font-weight: 400;
+      margin: 0;
+  }
+  .content-wrap1{
+    width: 900px;
+    margin: 0 auto;
+    padding: 60px 0;
+}
+   .content-wrap{
+      width: 900px;
+      margin: 0 auto;
+      padding: 20px 0;
+  }
+ 
+
+ /* Profile
+------------------------------------*/
+
+header{
+    /*display: block;
+     text-align: center; */         
+     background-color: rgb(79, 102, 117); 
+color: white;
+    }  
+
+      
+ /*.about{
+     font-size: 12px;
+     margin: 20px 30px 30px 100px;
+     margin-bottom: 1em;
+     text-align: justify;
+ }*/
+     
+  
+
+/*h1,h2,h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;*/
+
+
+
+/*......Project.......*/
+
+.project{
+    background-color: rgb(247, 235, 220);
+}
+.project-item{
+    overflow:hidden;
+    border-bottom: 1px dashed black;
+    padding: 25px 0;
+}
+.project-item img{
+    float: left;
+    margin-right: 20px;
+}
+.project-item h4{
+    margin-top: 0;
+}
+
+/*......Work....*/
+.work{
+    background-color: rgba(216, 223, 185, 0.829) ;
+}
+/*.......education.......*/
+.education{
+    background-color: rgb(255, 238, 238);
+}
+
+.features {
+    /*background-color: rgb(243, 239, 229);*/
+    margin: 0 30px 30px 20px;
+    text-align: justify;}
+
+    section p a{
+        border-radius: 4px;
+        background-color: rgb(212, 202, 169);
+        padding: 4px 4px 4px 4px;
+        color: brown;
+        border: 1px;
+        border-color: rgb(212, 202, 169);
+        border-style: solid;
+    }
+    section p a:hover{
+        color:rgba(155, 106, 70,80%);
+    }
+    
+
+/*.div1 {
+    float: left; 
+    
+  }
+  
+  .div2{
+    clear: left;
+    padding-top: 2px;
+}*/
+
+.stem {
+    margin: 0 30px 30px 20px;
+    text-align: justify;
+
+}
+
+a{
+    text-decoration: none;
+
+}
+
+footer{
+    background-color: rgb(79, 102, 117); 
+}   
+footer h3{
+    color: white;
+} 
+
+footer ul{
+      color: white;
+  }
+  footer nav ul{
+    list-style: none;
+  }
+  footer nav ul li{
+    display: inline-block; 
+    position: relative; 
+    padding: 0 50px;
+  }
+    li a {
+      color: white;
+    text-decoration: none;
+  }
+  li a:hover{
+      color:darkblue;
+  }
